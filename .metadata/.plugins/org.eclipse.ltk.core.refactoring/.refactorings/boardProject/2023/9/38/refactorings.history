@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;boardProject/src/main/java/edu/kh/project/sql/student-sql.xml&apos; to &apos;member-sql.xml&apos;" description="Rename resource &apos;student-sql.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/edu/kh/project/sql/student-sql.xml" name="member-sql.xml" stamp="1695279003961" updateReferences="true"/>
+</session>
