@@ -1,5 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+    
+    <link rel="stylesheet" href="/resources/css/main-style.css">
 
 	<header>
 
@@ -14,7 +16,7 @@
             <section>
                 <section class="search-area">
                     <!-- form 내부 input 태그 값을 서버 또는 페이지로 전달 -->
-                    <form action="#" name="search-form">
+                    <form action="/search" name="search-form">
 
                         <!-- fieldset : form 내부에서 input을 종류별로 묶는 요도로 자주 사용 -->
                         <fieldset>
